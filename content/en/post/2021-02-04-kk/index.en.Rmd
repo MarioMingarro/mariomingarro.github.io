@@ -1,0 +1,15 @@
+---
+title: kk
+author: mario
+date: '2021-02-04'
+slug: []
+categories:
+  - R
+tags:
+  - R Markdown
+featured_image: ''
+description: ''
+---
+# _kk_
+
+this is an
