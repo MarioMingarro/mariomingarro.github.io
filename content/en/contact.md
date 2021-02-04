@@ -7,4 +7,5 @@ title: Contact
 type: page
 ---
 
-Mario_mingarro@hotmail.com
+Mario_mingarro@hotmail.com  
+https://mariomingarro.netlify.app/
