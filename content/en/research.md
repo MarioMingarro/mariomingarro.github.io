@@ -13,5 +13,5 @@ type: page
 M. Mingarro, and JM Lobo, 2018. Environmental representativeness and the role of emitter and recipient areas in the future trajectory of a protected area under climate change
 
 # _Technical reports_
-
+oo
 # _Congress_
