@@ -11,11 +11,11 @@ enableRobotsTXT: yes
 languages:
   en:
     contentDir: content/en
-    title: My blog
+    title: Home
     weight: 1
-  fr:
-    contentDir: content/fr
-    title: Mon blogue
+  es:
+    contentDir: content/es
+    title: Inicio
     weight: 2
 sitemap:
   changefreq: monthly
@@ -23,11 +23,11 @@ sitemap:
   priority: 0.5
 params:
   background_color_class: bg-black
-  description: The last theme you'll ever need. Maybe.
+  description: hola hola
   facebook: ''
   favicon: ''
   featured_image: /images/gohugo-default-sample-hero-image.jpg
-  github: ''
+  github: https://github.com/MarioMingarro
   gitlab: ''
   instagram: ''
   linkedin: ''
@@ -37,5 +37,5 @@ params:
   site_logo: ''
   slack: ''
   stackoverflow: ''
-  twitter: https://twitter.com/GoHugoIO
+  twitter: https://twitter.com/Minglop
   youtube: ''
