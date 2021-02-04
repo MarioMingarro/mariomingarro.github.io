@@ -1,6 +1,6 @@
 ---
-description: 'absssssssssssss.'
-featured_image: ""/images/landscape.jpg""
+description: ''
+featured_image: "/images/landscape.jpg"
 title: About
 ---
 {{< figure src="/images/mario.jpg" title="Mario Mingarro (1881)" >}}
