@@ -1,10 +1,7 @@
 ---
-description: Research page
-featured_image: images/landscape.jpg
-menu: main
-omit_header_text: true
+description: ''
+thumbnail: "/images/A.jpg"
 title: Research
-type: page
 ---
 
 
