@@ -26,7 +26,7 @@ params:
   description: hola hola
   facebook: ''
   favicon: ''
-  featured_image: /images/gohugo-default-sample-hero-image.jpg
+  featured_image: /images/A.jpg
   github: https://github.com/MarioMingarro
   gitlab: ''
   instagram: ''
