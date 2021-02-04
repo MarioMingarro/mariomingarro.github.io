@@ -1,6 +1,6 @@
 ---
 description: ''
-featured_image: "/images/landscape.jpg"
+thumbnail: "/images/A.jpg"
 title: About
 ---
 {{< figure src="/images/mario_2.png">}}
