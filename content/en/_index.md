@@ -4,4 +4,4 @@ featured_image: "/images/A.jpg"
 title: 'Mario Mingarro López'
 ---
 
-aaaa
+aaaab
