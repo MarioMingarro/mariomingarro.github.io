@@ -1,10 +1,13 @@
 ---
-title: "Untitled"
 author: "Mario"
 date: "4/2/2021"
-output: html_document
----
 
+description: The Grand Hall
+featured_image: /images/Pope-Edouard-de-Beaumont-1844.jpg
+tags:
+- scene
+title: 'Chapter kk: The Grand kk'
+---
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
